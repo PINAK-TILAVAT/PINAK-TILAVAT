@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">- I do CSE or maybe CSE doing me 💀🌸<br><br>- I speak in : JAVA ☕ / PYTHON 🐍 / FLUTTER 🦚 <br><br>- Expert in went to the basement and get shit done .<br><br>- Fun thing about me : i exists ( *it's concerning )
+<p align="left">- I do CSE or maybe CSE doing me 💀🌸<br><br>- I speak in : JAVA ☕ / PYTHON 🐍 / FLUTTER 🦚 <br><br>- Procrastinating, but with a side of existential dread<br><br>- Fun thing about me : i exists ( *it's concerning )
 </p>
 
 ###

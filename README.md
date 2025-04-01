@@ -1,13 +1,9 @@
 
-<h1 align="center">HII !! 🦊</h1>
-
-<br clear="both">
-
 <img align="left" height="200" src="https://i.pinimg.com/564x/b8/8f/0b/b88f0bc75c7f89a978e97d8ba53462b7.jpg"  />
 
 ###
 
-<p align="left">- I do CSE or maybe CSE doing me 💀🌸<br><br>- I speak in : JAVA ☕ / PYTHON 🐍 / FLUTTER 🦚 <br><br>- Procrastinating, but with a side of existential dread<br><br>- Fun thing about me : i exists ( *it's concerning )
+<p align="left">- i build mobile apps 🌸<br><br>- Fun thing about me : i exists ( *it's concerning )
 </p>
 
 ###
@@ -17,7 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=PINAK-TILAVAT&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge)
 
 
-
+<br>
 
 
 ### 🔗 Social Links
@@ -35,41 +31,17 @@
 ### 🛠 THINGS I KNOW 
 
 <div align="left">
-  <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
 
 </div>
 
 <hr>
-
-###
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/PINAK-TILAVAT/PINAK-TILAVAT/output/snake.svg" alt="Snake animation" />
-</div>
 
 
 ###
@@ -77,7 +49,7 @@
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/PINAK-TILAVAT?theme=dark&font=PT%20Sans%20Caption&ext=heatmap)
 </div>
-<hr>
+
 
 
 
